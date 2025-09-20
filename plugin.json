@@ -1,0 +1,14 @@
+{
+  "ID": "BDE2C2A5D6014E008D529B2BA9BDC882",
+  "ActionKeyword": "tg",
+  "Name": "Telegram",
+  "Description": "Quickly open Telegram chats from a manual list.",
+  "Author": "MA",
+  "Version": "0.0.4",
+  "Language": "python",
+  "Website": "https://github.com/Anarq42/Flow.Launcher.Plugin.Telegram",
+  "IcoPath": "icon.png",
+  "ExecuteFileName": "main.py"
+  "UrlSourceCode": "https://github.com/"
+  "UrlDownload": "https://github.com/"
+}

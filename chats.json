@@ -1,0 +1,17 @@
+[
+  {
+    "name": "John doe",
+    "identifier": "johndoe",
+    "icon": "profile_icons\\johndoe.png"
+  },
+  {
+    "name": "Jane doe",
+    "identifier": "janedoe",
+    "icon": "profile_icons\\janendoe.png"
+  }
+  {
+    "name": "Telegram",
+    "identifier": "telegram",
+    "icon": "profile_icons\\telegram.png"
+  }
+]
